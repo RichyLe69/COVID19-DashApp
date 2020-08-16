@@ -6,3 +6,11 @@
 
  A COVID-19 statistics visualizer using python and dash web app
 
+# Example of DashApp
+
+![Alt Text](https://raw.githubusercontent.com/richardle17/COVID19-DashApp/master/demo/covid19%20tracker%20example%20us%20cali.gif)
+DashApp with interactive options showing case history of California
+
+![Alt Text](https://raw.githubusercontent.com/richardle17/COVID19-DashApp/master/demo/covid19%20tracker%20example%20us%20cali.png)
+DashApp with interactive options showing total cumulated cases in California
+
